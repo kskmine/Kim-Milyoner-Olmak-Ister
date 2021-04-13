@@ -1,0 +1,6 @@
+﻿  Game.cpp
+c:\users\turkalp\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\game.cpp(65): warning C4018: '>=': signed/unsigned mismatch
+c:\users\turkalp\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\game.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\turkalp\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\game.cpp(235): warning C4018: '<': signed/unsigned mismatch
+c:\users\turkalp\source\repos\kimmilyonerolmakister\kimmilyonerolmakister\game.cpp(403): warning C4018: '<': signed/unsigned mismatch
+  KimMilyonerOlmakIster.vcxproj -> C:\Users\turkalp\source\repos\KimMilyonerOlmakIster\Debug\KimMilyonerOlmakIster.exe
